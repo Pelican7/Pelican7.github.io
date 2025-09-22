@@ -82,6 +82,18 @@ a:hover {
     color: #ffffff;
 }
 
+#privacy
+{
+    background-color: #FCFCFC;
+    padding-top: 24px;
+    color: black;
+}
+
+#privacy h2
+{
+    font-size: 1.6em;
+}
+
 /* Section */
 
 .section
